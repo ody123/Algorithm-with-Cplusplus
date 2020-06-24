@@ -2,5 +2,5 @@
 1. [Binary Tree Path Sum (easy) -- LeetCode](https://leetcode.com/problems/path-sum/)
 2. [All Paths for a Sum (medium) -- LeetCode](https://leetcode.com/problems/path-sum-ii/)
 3. [Sum of Path Numbers (medium) -- LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-4. [Path With Given Sequence (medium) -- GeeksforGeeks](https://www.geeksforgeeks.org/check-root-leaf-path-given-sequence/)
+4. [Path With Given Sequence (medium) -- GeeksforGeeks](https://www.geeksforgeeks.org/check-root-leaf-path-given-sequence/)(leetcode上未找到)
 5. [Count Paths for a Sum (medium) -- LeetCode](https://leetcode.com/problems/path-sum-iii/)

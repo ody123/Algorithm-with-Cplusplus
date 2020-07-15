@@ -10,8 +10,8 @@
 #### 2. Unbounded Knapsack，无限背包
 1. Unbounded Knapsack，无限背包
 2. Rod Cutting，切钢条问题
-3. Coin Change，换硬币问题
-4. Minimum Coin Change，凑齐每个数需要的最少硬币问题
+3. [Coin Change，换硬币问题](https://leetcode-cn.com/problems/coin-change-2/)
+4. [Minimum Coin Change，凑齐每个数需要的最少硬币问题](https://leetcode-cn.com/problems/coin-change/)
 5. Maximum Ribbon Cut，丝带的最大值切法
 
 #### 3. Fibonacci Numbers，斐波那契数列

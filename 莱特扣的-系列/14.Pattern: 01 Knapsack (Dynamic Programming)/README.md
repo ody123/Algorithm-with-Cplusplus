@@ -15,8 +15,8 @@
 5. Maximum Ribbon Cut，丝带的最大值切法
 
 #### 3. Fibonacci Numbers，斐波那契数列
-1. Fibonacci numbers，斐波那契数列问题
-2. Staircase，爬楼梯问题
+1. [Fibonacci numbers，斐波那契数列问题](https://leetcode-cn.com/problems/fibonacci-number/)
+2. [Staircase，爬楼梯问题](https://leetcode-cn.com/problems/climbing-stairs/)
 3. Number factors，分解因子问题
 4. Minimum jumps to reach the end，蛙跳最小步数问题
 5. Minimum jumps with fee，蛙跳带有代价的问题
